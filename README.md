@@ -1,6 +1,3 @@
-
-# Hi, I'm Dongkwang
-
 ### Software Development | System Integration | Automation
 
 I develop and maintain software for web services, industrial systems, fountain show control, and video surveillance.
