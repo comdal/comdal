@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**comdal/comdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dongkwang
 
-Here are some ideas to get you started:
+### Software Development | System Integration | Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop and maintain software for web services, industrial systems, fountain show control, and video surveillance.
+
+## Tech Stack
+
+**Languages**
+- C#, C++, PHP, JavaScript, HTML, CSS
+
+**Web & Database**
+- Apache, MySQL
+
+**Industrial Systems**
+- CIM, GEM, Equipment & Material Communication
+
+**Show Control**
+- DMX512, Arduino, STM32
+
+**Video Systems**
+- CCTV, VMS, FFmpeg, ONVIF
